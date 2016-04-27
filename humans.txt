@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rani	rani.vandersande@bewire.be	@ranivd
 
 # THANKS
 
